@@ -1,6 +1,7 @@
 # **Job Application Tracker**
 
 This web application is designed to help users keep track of their job applications. It allows users to add, manage, and organize their job applications efficiently. Built with React, chart.js and Tailwind CSS.
+Notable Features: Offers an interactive dashboard with charts to analyze job search progress – e.g. a pie chart or bar chart of applications by status category, giving a quick overview of how many opportunities are in each stage. It emphasizes a clean, responsive design for ease of use. By visually tracking applications, users can identify where to focus their efforts (which improves productivity in the job hunt).
 
 ## **How to Run the Project**
 1. **Clone the repository**:
